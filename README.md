@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+ <div>
+  <a href="https://github.com/antoniogouvea">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogouvea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **antoniogouvea/antoniogouvea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
